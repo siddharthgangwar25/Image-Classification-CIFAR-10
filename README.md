@@ -7,13 +7,15 @@ To create and train CNN model:
 ```bash
 Run CIFAR_Classification.ipynb
 ``` 
-File model1_cifar.h5 contains weights of an already trained CNN model for CIFAR-10. To run the graphical user interface:
+To run the graphical user interface: <br />
+*File model1_cifar.h5 contains weights of an already trained CNN model for CIFAR-10*
 ```bash
 Run GUI.py
 ``` 
 ```bash
 Upload an image to be predicted
 ``` 
+*Three images for testing are provided*
 ## CNN 
 <img src="https://i.ibb.co/W5bgqzR/Capture.png" width="450" height="280"><br /><br />
 A 24-layer CNN model is created consisting of multiple Convolution, Pooling and Dense Layers. Batch Normalization and Dropout is used for Regularization to avoid overfitting.<br />
