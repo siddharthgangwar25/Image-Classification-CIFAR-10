@@ -16,4 +16,5 @@ Upload an image to be predicted
 ``` 
 ## CNN 
 <img src="https://i.ibb.co/W5bgqzR/Capture.png" width="450" height="280"><br /><br />
-A 24-layer CNN model is created consisting of multiple Convolution, Pooling and Dense Layers. Batch Normalization and Dropout is used for Regularization to avoid overfitting.
+A 24-layer CNN model is created consisting of multiple Convolution, Pooling and Dense Layers. Batch Normalization and Dropout is used for Regularization to avoid overfitting.<br />
+File **model_plot.png** consists the architecture of the model.
