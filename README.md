@@ -15,7 +15,7 @@ Run GUI.py
 ```bash
 Upload an image to be predicted
 ``` 
-*Three images for testing are provided*
+*Three images for testing are provided.*
 ## CNN 
 <img src="https://i.ibb.co/W5bgqzR/Capture.png" width="450" height="280"><br /><br />
 A 24-layer CNN model is created consisting of multiple Convolution, Pooling and Dense Layers. Batch Normalization and Dropout is used for Regularization to avoid overfitting.<br />
